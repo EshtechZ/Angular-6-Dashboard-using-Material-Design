@@ -1,3 +1,5 @@
 # Angular-6-Dashboard-using-Material-Design
-This repository will contain all the course material as well as code to play with.
-Will be uploading all the material after finishing the course.
+This repository contains all code, you can download and to play with it.
+If you need any help let me know and will help you.
+
+Happy Learnig...
